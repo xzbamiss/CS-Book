@@ -4,6 +4,15 @@
 
 > **重要说明**：**如果目录无法跳转的话，直接拉下去就可以了**，这些书籍都是在同一个页面的，我只是方便大家找到对应的，弄了一个**页内目录**，不过有部分读者反馈他跳转不了（手机是绝对跳转不了的了）。
 
+
+### 另外，一个专注于编程学习的小破站上线了
+
+搁置了一年多，一个专注于**面试，计算机基础，算法，通用类入门教程**的网站终于上线了，致力于做全网质量最高的编程网站，目前正在疯狂输出中....
+
+![image-20210417224031910](https://tva1.sinaimg.cn/large/008eGmZEgy1gpn4dqfmewj316r0rm430.jpg)
+
+欢迎各位小伙伴来我的网站玩耍呀，地址：https://www.iamshuaidi.com
+
 - [大神刷题笔记](#大神刷题笔记)
 - [数据结构与算法相关书籍](#数据结构与算法相关书籍)
 - [计算机基础](#计算机基础)
@@ -32,62 +41,62 @@
 - [免责声明](#免责声明)
 
 # 大神刷题笔记
-- Leetcode 1300道算法题解    [蓝奏云直接下载(推荐)](https://wws.lanzous.com/iQUI9kdrgqh)
-- labuladong 的算法小抄      [蓝奏云直接下载(推荐)](https://wws.lanzous.com/i44Bnkdrkgb)
-- 阿里巴巴Java面试问题大全    [蓝奏云直接下载(推荐)](https://wws.lanzous.com/iZIZlkbi45i)       [百度云下载链接](https://pan.baidu.com/s/1tbd8N88ae-O0xsm6RTJIag)  密码:8xzm
-- 程序员面试宝典       [蓝奏云直接下载(推荐)](https://wws.lanzous.com/ixTE0kbi4ad)  [百度云下载链接](https://pan.baidu.com/s/1LilCd-QIcVgZ1uQyFWMaWw)  密码:ko62
-- 大厂面试真题       [蓝奏云直接下载(推荐)](https://wws.lanzous.com/idfFXkbi4cf)   [百度云下载链接](https://pan.baidu.com/s/1631WVa3Fhf2wOpdZX_ou2g)  密码:gu92
-- Java面试突击       [蓝奏云直接下载(推荐)](https://wws.lanzous.com/izYukkbi4gj) [百度云下载链接](https://pan.baidu.com/s/1bAZS8KiUNF0lOt-R0UBOyg)  密码:h44t
+- Leetcode 1300道算法题解    [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iQUI9kdrgqh)
+- labuladong 的算法小抄      [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/i44Bnkdrkgb)
+- 阿里巴巴Java面试问题大全    [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iZIZlkbi45i)       [百度云下载链接](https://pan.baidu.com/s/1tbd8N88ae-O0xsm6RTJIag)  密码:8xzm
+- 程序员面试宝典       [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/ixTE0kbi4ad)  [百度云下载链接](https://pan.baidu.com/s/1LilCd-QIcVgZ1uQyFWMaWw)  密码:ko62
+- 大厂面试真题       [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/idfFXkbi4cf)   [百度云下载链接](https://pan.baidu.com/s/1631WVa3Fhf2wOpdZX_ou2g)  密码:gu92
+- Java面试突击       [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/izYukkbi4gj) [百度云下载链接](https://pan.baidu.com/s/1bAZS8KiUNF0lOt-R0UBOyg)  密码:h44t
 
 # 数据结构与算法相关书籍
 
-- 挑战程序设计竞赛       [百度云下载链接](https://pan.baidu.com/s/1diObrFpHKm4r-XyTp4cGAQ)  密码:mxn7
+- 挑战程序设计竞赛   [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iULENn35iaj)    [百度云下载链接](https://pan.baidu.com/s/1diObrFpHKm4r-XyTp4cGAQ)  密码:mxn7
 - Java数据结构和算法     [百度云下载链接](https://pan.baidu.com/s/1vD9CQVwnWMfqSaEmn8Dudw ) 密码:lpym
-- 算法图解   [百度云下载链接](https://pan.baidu.com/s/1NFiwO-_Kzt-VxXxxteRCTA) 密码:7osf
+- 算法图解 [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iq9qbn35evg)  [百度云下载链接](https://pan.baidu.com/s/1NFiwO-_Kzt-VxXxxteRCTA) 密码:7osf
 - 算法导论     [百度云下载链接](https://pan.baidu.com/s/1WHmnchIdy0FvMWLImPoIhQ)  密码:p2tp
 - 算法第四版       [百度云下载链接](https://pan.baidu.com/s/1WEliUJ_hQhl-OzWPtXcFdQ) 密码:rixw
-- 数据结构与算法分析C语言描述版       [百度云下载链接](https://pan.baidu.com/s/1v4OsTTCd5SyC4WGarHZdcA)  密码:mn10  
-- 数据结构与算法分析Java语言描述版       [百度云下载链接](https://pan.baidu.com/s/1hZGhkErn9Bc17ZnN_ilgAw)  密码:917n
-- 数据结构与算法 Python语言描述_裘宗燕       [百度云下载链接](https://pan.baidu.com/s/1VjlQugLPIiN91bmISkJ3xg)  密码:96gw 
-- 剑指offer       [百度云下载链接](https://pan.baidu.com/s/1lUs2fVqxNMK8OOUrVSBCmw)  密码:a4rt
+- 数据结构与算法分析C语言描述版   [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iaxQMn35ehc)    [百度云下载链接](https://pan.baidu.com/s/1v4OsTTCd5SyC4WGarHZdcA)  密码:mn10  
+- 数据结构与算法分析Java语言描述版  [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/ixqIbn35eqb)     [百度云下载链接](https://pan.baidu.com/s/1hZGhkErn9Bc17ZnN_ilgAw)  密码:917n
+- 数据结构与算法 Python语言描述_裘宗燕  [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/imrUan35e3i)     [百度云下载链接](https://pan.baidu.com/s/1VjlQugLPIiN91bmISkJ3xg)  密码:96gw 
+- 剑指offer   [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/itvXcn35daj)    [百度云下载链接](https://pan.baidu.com/s/1lUs2fVqxNMK8OOUrVSBCmw)  密码:a4rt
 - 计算机程序设计艺术1-3卷       [百度云下载链接](https://pan.baidu.com/s/1rxEqkKAogFpy1aNQnXUyBw)  密码:i3nh
-- 大话数据结构       [百度云下载链接](https://pan.baidu.com/s/1fTxelwIZa8pBmdnMW8PFYg)  密码:np2o
-- 程序员代码面试指南：IT 名企算法与数据结构题目最优解       [百度云下载链接](https://pan.baidu.com/s/1DhjBLEiORLRTiffpJnJq_g)  密码:20oh
-- 编程珠玑       [百度云下载链接](https://pan.baidu.com/s/1ix17W5-CG4r5Wn8bF3erVQ)  密码:4oow
-- 编程之美       [百度云下载链接](https://pan.baidu.com/s/1y8SWiLipsKEzCulyxdbgGQ)  密码:4zme
-- 啊哈算法       [百度云下载链接](https://pan.baidu.com/s/1S6OTJlQtywaRvu4IA_ogCw)  密码:h4id
+- 大话数据结构   [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/ibUjTn35d1a)    [百度云下载链接](https://pan.baidu.com/s/1fTxelwIZa8pBmdnMW8PFYg)  密码:np2o
+- 程序员代码面试指南：IT 名企算法与数据结构题目最优解   [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iU3JXn35coh)    [百度云下载链接](https://pan.baidu.com/s/1DhjBLEiORLRTiffpJnJq_g)  密码:20oh
+- 编程珠玑   [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/ioxwLn35c6j)    [百度云下载链接](https://pan.baidu.com/s/1ix17W5-CG4r5Wn8bF3erVQ)  密码:4oow
+- 编程之美   [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iExkhn35btg)    [百度云下载链接](https://pan.baidu.com/s/1y8SWiLipsKEzCulyxdbgGQ)  密码:4zme
+- 啊哈算法   [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iXPwkn35bmj)    [百度云下载链接](https://pan.baidu.com/s/1S6OTJlQtywaRvu4IA_ogCw)  密码:h4id
 - 程序员的算法趣题       [百度云下载链接](https://pan.baidu.com/s/1iIHm0kRlfwck3IQn-BUZZA)  密码:kk84
 
 # 计算机基础
 
 ### 操作系统
 
-- 30天填自制操作系统       [百度云下载链接](https://pan.baidu.com/s/1QSIUlat1HpllNFMWY9WBzw)  密码:pxxr
-- 操作系统之哲学原理       [百度云下载链接](https://pan.baidu.com/s/1GEfALJhtJ2IJtjtKcLneKg)  密码:hua7
-- 程序是怎样跑起来的       [百度云下载链接](https://pan.baidu.com/s/1i_xDxT8QgA_x4kRHXEmPqg)  密码:pbvh
-- 深入理解计算机操作系统       [百度云下载链接](https://pan.baidu.com/s/1xrDC6wGAH7Yv3uuXzVUWxg)  密码:2toh
-- 现代操作系统       [百度云下载链接](https://pan.baidu.com/s/1QA0VZ20pA8giW6ax7AHQBA)  密码:huk2
+- 30天填自制操作系统       [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/imNjdkggipa)   [百度云下载链接](https://pan.baidu.com/s/1QSIUlat1HpllNFMWY9WBzw)  密码:pxxr
+- 操作系统之哲学原理       [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/i0g2nkggisd)    [百度云下载链接](https://pan.baidu.com/s/1GEfALJhtJ2IJtjtKcLneKg)  密码:hua7
+- 程序是怎样跑起来的       [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iLBQEkggixi)    [百度云下载链接](https://pan.baidu.com/s/1i_xDxT8QgA_x4kRHXEmPqg)  密码:pbvh
+- 深入理解计算机操作系统    [百度云下载链接](https://pan.baidu.com/s/1xrDC6wGAH7Yv3uuXzVUWxg)  密码:2toh
+- 现代操作系统       [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/ih5Lkkggj9a)   [百度云下载链接](https://pan.baidu.com/s/1QA0VZ20pA8giW6ax7AHQBA)  密码:huk2
 
 
 
 ### 汇编语言
 
-- 汇编语言（注：这边是王爽写的，我觉得写的很好，适合入门）       [百度云下载链接](https://pan.baidu.com/s/1kZLH0dW6Y37S-WCLNV309A)  密码:qea3
+- 汇编语言（注：这边是王爽写的，我觉得写的很好，适合入门）      [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iDjtxpbhgrg)   [百度云下载链接](https://pan.baidu.com/s/1kZLH0dW6Y37S-WCLNV309A)  密码:qea3
 
 ### 计算机网络
 
-- 计算机网络：自顶向下       [百度云下载链接](https://pan.baidu.com/s/18X_L2RINmtLK9g0Ki2GiFw)  密码:l77d
-- 图解HTTP       [百度云下载链接](https://pan.baidu.com/s/1NEAK2PH_4JzPY454QvmmsQ)  密码:b42z
-- 图解TC/IP       [百度云下载链接](https://pan.baidu.com/s/1FJru4ppyxBhx_J3pk8rpvA)  密码:5k3x
-- 网络是怎样连接的       [百度云下载链接](https://pan.baidu.com/s/1HhE9MoC4rp5NSvyWOtk_hw)  密码:g983
-- HTTP权威指南       [百度云下载链接](https://pan.baidu.com/s/1b2fIsmdt9ANVMcqU97t6kw)  密码:tqj8
-- UNIX网络编程       [百度云下载链接](https://pan.baidu.com/s/1vXbj7OLsouVFH4DCIMqF3w)  密码:4buy
+- 计算机网络：自顶向下     [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iVnE7p837kd)  [百度云下载链接](https://pan.baidu.com/s/18X_L2RINmtLK9g0Ki2GiFw)  密码:l77d
+- 图解HTTP      [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/ih08zp83k5g) [百度云下载链接](https://pan.baidu.com/s/1NEAK2PH_4JzPY454QvmmsQ)  密码:b42z
+- 图解TC/IP     [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/i1fnRp83swb)  [百度云下载链接](https://pan.baidu.com/s/1FJru4ppyxBhx_J3pk8rpvA)  密码:5k3x
+- 网络是怎样连接的   [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/iF7Ihp83w9c)    [百度云下载链接](https://pan.baidu.com/s/1HhE9MoC4rp5NSvyWOtk_hw)  密码:g983
+- HTTP权威指南    [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/i5R6Xp842cb)   [百度云下载链接](https://pan.baidu.com/s/1b2fIsmdt9ANVMcqU97t6kw)  密码:tqj8
+- UNIX网络编程    [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/imEtFp847hg)   [百度云下载链接](https://pan.baidu.com/s/1vXbj7OLsouVFH4DCIMqF3w)  密码:4buy
 
 ### 计算机组成原理
 
-- 隐匿在计算机软硬件背后的语言       [百度云下载链接](https://pan.baidu.com/s/1gJCnChBTCZD07mm3IqCRwQ)  密码:6jiq
-- 大话计算机       [百度云下载链接](https://pan.baidu.com/s/1AakpZmD8hziokFnV0VSGFA)  密码:6j1o
-- 计算机是怎样跑起来的       [百度云下载链接](https://pan.baidu.com/s/1JIq3U8kNYohz0C3xnCk6EA)  密码:er12
+- 隐匿在计算机软硬件背后的语言    [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/ipiSbpdpnef)   [百度云下载链接](https://pan.baidu.com/s/1gJCnChBTCZD07mm3IqCRwQ)  密码:6jiq
+- 大话计算机     [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/i6FNTpdq3qd)  [百度云下载链接](https://pan.baidu.com/s/1AakpZmD8hziokFnV0VSGFA)  密码:6j1o
+- 计算机是怎样跑起来的    [蓝奏云直接下载(推荐)](https://wws.lanzoui.com/ivIwApdq4ad)   [百度云下载链接](https://pan.baidu.com/s/1JIq3U8kNYohz0C3xnCk6EA)  密码:er12
 
 
 
@@ -230,13 +239,13 @@
 
 # 数据库
 
-- 高性能MySQL       [百度云下载链接](https://pan.baidu.com/s/1_vXaan9KbIWAHEnyQnQFlg)  密码:gh5t
+- 高性能MySQL    [蓝奏云高速下载（推荐）](https://wws.lanzoui.com/iPYRqpwxzgb)  [百度云下载链接](https://pan.baidu.com/s/1_vXaan9KbIWAHEnyQnQFlg)  密码:gh5t
 - 深入浅出MySQL       [百度云下载链接](https://pan.baidu.com/s/1gWJcwszv3CnjIRMzy--_rw)  密码:ju0h
-- MongoDB权威指南       [百度云下载链接](https://pan.baidu.com/s/1LO1ACpRDi7n0i9Q7nLooqg)  密码:llvx
-- MySQL必知必会       [百度云下载链接](https://pan.baidu.com/s/1IWeqx7IQGc0sY5bJ9WtyMA)  密码:f1v9
-- MySQL技术内幕InnoDB存储引擎        [百度云下载链接](https://pan.baidu.com/s/1fLL3GXn_Hp6DdEnHXcBFJQ)  密码:6g04）
+- MongoDB权威指南   [蓝奏云高速下载（推荐）](https://wws.lanzoui.com/iFwiApwy06h)    [百度云下载链接](https://pan.baidu.com/s/1LO1ACpRDi7n0i9Q7nLooqg)  密码:llvx
+- MySQL必知必会    [蓝奏云高速下载（推荐）](https://wws.lanzoui.com/ixcrVpwwe5i)    [百度云下载链接](https://pan.baidu.com/s/1IWeqx7IQGc0sY5bJ9WtyMA)  密码:f1v9
+- MySQL技术内幕InnoDB存储引擎   [蓝奏云高速下载（推荐）](https://wws.lanzoui.com/iwWcFpwwb7c)      [百度云下载链接](https://pan.baidu.com/s/1fLL3GXn_Hp6DdEnHXcBFJQ)  密码:6g04）
 - SQL查询的艺术       [百度云下载链接](https://pan.baidu.com/s/1PfE3oLfmQN8Xtdj-08L--A)  密码:ndcv
-- SQLite 权威指南       [百度云下载链接](https://pan.baidu.com/s/1BqFp4W_I0Wwn87fKrCpB8A)  密码:ex3h
+- SQLite 权威指南   [蓝奏云高速下载（推荐）](https://wws.lanzoui.com/icTHApwy0de)    [百度云下载链接](https://pan.baidu.com/s/1BqFp4W_I0Wwn87fKrCpB8A)  密码:ex3h
 
 # Go
 
